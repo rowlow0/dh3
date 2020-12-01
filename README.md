@@ -4,6 +4,6 @@
 
 http://junil-hwang.com/blog/%ec%a0%95%eb%b3%b4%ec%b2%98%eb%a6%ac%ec%82%b0%ec%97%85%ea%b8%b0%ec%82%ac-%ea%b2%8c%ec%8b%9c%ed%8c%90/
 
-을 기본으로 수정하였습니다.
+을 기본으로 추가하였습니다. ( 제 사이트는 아니고 고마운 분의 사이트입니다..)
 
 감사합니다.
